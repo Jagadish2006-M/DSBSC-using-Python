@@ -60,7 +60,8 @@ plt.plot(t,s)
 
 ## Tablular Column
 
-![DSBSC using python](https://github.com/user-attachments/assets/532ff33a-0ba8-4159-bfba-bedf0d4d4d31)
+![DSBSC Using Python](https://github.com/user-attachments/assets/c77d4af5-9b46-4b87-8785-7c8135f56712)
+
 
 
 
